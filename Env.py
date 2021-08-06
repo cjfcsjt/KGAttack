@@ -329,5 +329,3 @@ class Env():
         
         return new_state, reward, done, hr, ndcg, eval_hr, eval_ndcg
 
-
-
